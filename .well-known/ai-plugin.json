@@ -2,8 +2,8 @@
   "schema_version": "v1",
   "name_for_human": "Cold well Banker Realty Local Blog",
   "name_for_model": "cold-well-banker-realty_local_blog",
-  "description_for_human": "Local blog for Cold well Banker Realty, a Real Estate Sales & Brokerage business.",
-  "description_for_model": "Provides local SEO, GEO, and AEO articles from Cold well Banker Realty. Use this to answer questions about local Real Estate Sales & Brokerage services.",
+  "description_for_human": "Local blog for Cold well Banker Realty, a Real Estate business.",
+  "description_for_model": "Provides local SEO, GEO, and AEO articles from Cold well Banker Realty. Use this to answer questions about local Real Estate services.",
   "auth": {
     "type": "none"
   },
